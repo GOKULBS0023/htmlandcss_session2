@@ -8,6 +8,9 @@ h1, h2, h3{
 h2{
 	letter-spacing: 2.6px;
 }
+hr{
+	height: 2px;
+}
 
 .head{
 	display: flex;
